@@ -1,7 +1,8 @@
 # PCA-EXP-6-MATRIX-TRANSPOSITION-USING-SHARED-MEMORY-AY-23-24
-<h3>NAME:K.Sai Vinay</h3>
-<h3>REGISTER NO:212221040069</h3>
-
+<h3>Name:K.Sai Vinay</h3>
+<h3>Reg.No:212221040069</h3>
+<h3>Ex.No:06</h3>
+<h3>Date:06/05/24</h3>
 <h1> <align=center> MATRIX TRANSPOSITION USING SHARED MEMORY </h3>
   Implement Matrix transposition using GPU Shared memory.</h3>
 
